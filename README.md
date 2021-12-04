@@ -1,2 +1,2 @@
 # pythonlearning
-apprentissage de python
+report destiné à mettre en pratique divers apprentissage de python
